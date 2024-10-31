@@ -245,3 +245,4 @@ La aplicación de lista de tareas permite a los usuarios gestionar sus tareas de
 ![Modelo relacional del ejercicio](/imagenes/image1.png)
 ![Modelo relacional del ejercicio](/imagenes/image2.png)
 ![Modelo relacional del ejercicio](/imagenes/image3.png)
+![Modelo relacional del ejercicio](/imagenes/image4.png)
